@@ -1,0 +1,16 @@
+body{
+	background-color: grey;
+}
+
+
+
+p{
+	color: purple;
+	background-color: yellowgreen;
+}
+
+img{
+
+	border: 1px solid #ddd;
+	width: 500px;
+}
